@@ -85,7 +85,7 @@
 
 ### 1. 프로젝트 클론 (Clone Repository)
 ```bash
-git clone https://github.com/MisterJerry123/sori-android.git
+git clone https://github.com/MisterJerry123/sesac_hackathon.git
 ```
 
 ### 2. 프로젝트 열기 (Open Project)
