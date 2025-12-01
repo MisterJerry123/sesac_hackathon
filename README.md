@@ -131,6 +131,6 @@ OPENAI_API_KEY=sk-your-api-key-here
    모델(SLM)로 대체하여, 데이터 통신 없이도 빠르고 안전하게 감정을 분석.
 4. 멀티모달 상황: 마이크(청각)뿐만 아니라 카메라(시각) 정보를 결합하여, "사이렌
    소리"가 실제 구급차인지 TV 소리인지 구분하는 등 상황 인식 정확도 향상.
-
-
 ---
+## 📄 라이선스 (License)
+Solar Icons by 480 Design, licensed under CC BY 4.0
