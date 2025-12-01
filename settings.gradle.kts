@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "sesac_hackathon"
+rootProject.name = "test01"
 include(":app")
  
